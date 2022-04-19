@@ -7,14 +7,15 @@ public class CubesContainer : MonoBehaviour
     [SerializeField] private Transform otherCubesParent;
     [SerializeField] private Transform playerTransform;
     [SerializeField] private Game game;
+    [SerializeField] private Vector3 positionToUp = new Vector3(0, 0.41f, 0);
+    [SerializeField] private float waitTime = 0.4f;
+    
     private List<CubeManager> _cubeManagers = new List<CubeManager>();
     private List<GameObject> _oldCubes = new List<GameObject>();
-    private Vector3 _positionToUp = new Vector3(0, 0.41f, 0);
-    private float _waitTime = 0.4f;
 
     public void AddCube(CubeManager cubeManager)
     {
-        playerTransform.position += _positionToUp;
+        playerTransform.position += positionToUp;
         var cubeTransform = cubeManager.transform;
         cubeTransform.parent = transform;
         _cubeManagers.Add(cubeManager);
@@ -37,8 +38,8 @@ public class CubesContainer : MonoBehaviour
 
     private IEnumerator ContainerDown()
     {
-        yield return new WaitForSeconds(_waitTime);
-        playerTransform.position -= _positionToUp;
+        yield return new WaitForSeconds(waitTime);
+        playerTransform.position -= positionToUp;
     }
 
     public void ClearAllCubes()

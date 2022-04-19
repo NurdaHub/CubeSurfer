@@ -7,8 +7,8 @@ public class Game : MonoBehaviour
     public UIManager UIManager;
     public CubesContainer CubesContainer;
     public CollisionDetector DefaultCubeDetector;
+    public int _loopLevelBegin = 2;
     private int _sceneId = 1;
-    private int _loopLevelBegin = 2;
     private int _sceneCount;
     private const string _sceneIdKey = "SceneIdKey";
     private const string _coinsCountKey = "CoinsCountKey";
@@ -52,6 +52,7 @@ public class Game : MonoBehaviour
         SceneManager.LoadScene(_sceneId, LoadSceneMode.Additive);
         PlayerMovement.ResetPosition();
         UIManager.SetLevel(_sceneId.ToString());
+        UIManager.SetEventDetectorState(true);
     }
 
     public void Restart()

@@ -1,21 +1,253 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8730edbc-d29c-4e23-8022-7d8487e9adb7" name="Default Changelist" comment="" />
+    <list default="true" id="8730edbc-d29c-4e23-8022-7d8487e9adb7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CubeSurfer/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CubeSurfer/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CubeSurfer/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CubeSurfer/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CubeSurfer/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CubeSurfer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CubeSurfer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/BlueMtl.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/BlueMtl.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/FinishMtl.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/FinishMtl.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/GreenMtl.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/GreenMtl.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/LavaMtl.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/LavaMtl.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/RedMtl.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/RedMtl.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/YellowMtl.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/YellowMtl.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Cube.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Cube.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Finish.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Finish.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Lava.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Lava.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level1.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level1.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level2.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level2.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level3.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level3.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CameraFollowPlayer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CameraFollowPlayer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CoinsTweener.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CoinsTweener.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CollisionDetector.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CollisionDetector.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ColorManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ColorManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Cube.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Cube.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CubeManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CubeManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CubesContainer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CubesContainer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/EventDetector.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/EventDetector.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FinishDetector.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FinishDetector.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Game.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Game.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UIManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UIManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/BG.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/BG.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/HyperCasualUI.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/HyperCasualUI.svg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Settings Menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Settings Menu.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/arrow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/backBtn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/backBtn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/blueBG.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/blueBG.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/blueBtnNormal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/blueBtnNormal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/blueBtnTapped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/blueBtnTapped.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/blueRectInactive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/blueRectInactive.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/blueRectNormal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/blueRectNormal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/blueRectTapped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/blueRectTapped.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/borderCircle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/borderCircle.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/circle.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/closeBtn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/closeBtn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/coinIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/coinIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/cornerSquare.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/cornerSquare.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/cornerSquare2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/cornerSquare2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/giftIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/giftIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/greenBtnInactive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/greenBtnInactive.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/greenBtnNormal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/greenBtnNormal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/greenBtnTapped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/greenBtnTapped.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/greenRectNormal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/greenRectNormal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/greenRectTapped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/greenRectTapped.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/greyRectNormal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/greyRectNormal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/greyRectTapped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/greyRectTapped.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/hand.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/hand.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/heartIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/heartIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/hintIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/hintIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/homeBtn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/homeBtn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/likeBtn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/likeBtn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/lockIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/lockIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/musicBtn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/musicBtn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/nextBtn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/nextBtn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/noAdsBtn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/noAdsBtn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/pauseBtn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/pauseBtn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/pinkBtnInactive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/pinkBtnInactive.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/pinkBtnNormal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/pinkBtnNormal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/pinkBtnTapped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/pinkBtnTapped.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/pinkRectNormal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/pinkRectNormal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/pinkRectTapped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/pinkRectTapped.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/playBtn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/playBtn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/playBtnRect.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/playBtnRect.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/plusIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/plusIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/previousBtn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/previousBtn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/privacyIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/privacyIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/purpleBtnInactive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/purpleBtnInactive.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/purpleBtnNormal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/purpleBtnNormal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/purpleBtnTapped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/purpleBtnTapped.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/purpleRectNormal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/purpleRectNormal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/purpleRectTapped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/purpleRectTapped.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/rect.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/rect.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/rect2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/rect2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/restoreBtn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/restoreBtn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/rewardAdsBtn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/rewardAdsBtn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/roundEdgeRect.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/roundEdgeRect.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/settingsBtn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/settingsBtn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/shareIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/shareIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/slider1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/slider1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/slider2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/slider2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/slider3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/slider3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/soundOffBtn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/soundOffBtn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/soundOnBtn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/soundOnBtn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/starIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/starIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/tickIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/tickIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/toggleOff.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/toggleOff.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/toggleOn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/toggleOn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/trophyIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/trophyIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/unlikeBtn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/unlikeBtn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/whiteBG.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/whiteBG.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/yellowBtnInactive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/yellowBtnInactive.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/yellowBtnNormal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/yellowBtnNormal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/yellowBtnTapped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/yellowBtnTapped.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/yellowRectNormal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/yellowRectNormal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/yellowRectTapped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/yellowRectTapped.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/EPRek.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/EPRek.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Stone_Floor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Stone_Floor.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/TexturesCom_Rock_Lava2_1K_height.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/TexturesCom_Rock_Lava2_1K_height.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/TexturesCom_Rock_Lava_1K_height.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/TexturesCom_Rock_Lava_1K_height.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventDetector.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CubesContainer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ColorManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoinsTweener.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventData/PointerEventData.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraFollowPlayer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FinishDetector.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -32,6 +264,9 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/CollisionDetector.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UIManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Game.cs" />
+        <option value="$PROJECT_DIR$/Assets/CubeSurfer/Scripts/CubesContainer.cs" />
+        <option value="$PROJECT_DIR$/Assets/CubeSurfer/Scripts/UIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/CubeSurfer/Scripts/Game.cs" />
       </list>
     </option>
   </component>
@@ -41,10 +276,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34993446" />
     <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30013105" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -58,10 +295,10 @@
       </option>
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="8624">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="8624" />
+      <option name="pid" />
       <option name="selectedOptions">
         <set />
       </option>
@@ -81,7 +318,8 @@
       <workItem from="1649601858801" duration="2271000" />
       <workItem from="1649679301275" duration="43229000" />
       <workItem from="1649861559642" duration="8048000" />
-      <workItem from="1649940867571" duration="17173000" />
+      <workItem from="1649940867571" duration="17768000" />
+      <workItem from="1650353903489" duration="2349000" />
     </task>
     <servers />
   </component>
@@ -90,6 +328,17 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
@@ -98,69 +347,69 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="457" height="436" key="DebuggerActiveHint/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1649950149345" />
-    <state width="1557" height="173" key="GridCell.Tab.0.bottom" timestamp="1649953685139">
+    <state width="1557" height="173" key="GridCell.Tab.0.bottom" timestamp="1649960275858">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="173" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1649953685139" />
-    <state width="1557" height="173" key="GridCell.Tab.0.center" timestamp="1649953685139">
+    <state width="1557" height="173" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1649960275858" />
+    <state width="1557" height="173" key="GridCell.Tab.0.center" timestamp="1649960275858">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="173" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1649953685139" />
-    <state width="1557" height="173" key="GridCell.Tab.0.left" timestamp="1649953685139">
+    <state width="1557" height="173" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1649960275858" />
+    <state width="1557" height="173" key="GridCell.Tab.0.left" timestamp="1649960275858">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="173" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1649953685139" />
-    <state width="1557" height="173" key="GridCell.Tab.0.right" timestamp="1649953685139">
+    <state width="1557" height="173" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1649960275858" />
+    <state width="1557" height="173" key="GridCell.Tab.0.right" timestamp="1649960275858">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="173" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1649953685139" />
-    <state width="1557" height="173" key="GridCell.Tab.1.bottom" timestamp="1649953685139">
+    <state width="1557" height="173" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1649960275858" />
+    <state width="1557" height="173" key="GridCell.Tab.1.bottom" timestamp="1649960275858">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="173" key="GridCell.Tab.1.bottom/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1649953685139" />
-    <state width="1557" height="173" key="GridCell.Tab.1.center" timestamp="1649953685139">
+    <state width="1557" height="173" key="GridCell.Tab.1.bottom/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1649960275858" />
+    <state width="1557" height="173" key="GridCell.Tab.1.center" timestamp="1649960275858">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="173" key="GridCell.Tab.1.center/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1649953685139" />
-    <state width="1557" height="173" key="GridCell.Tab.1.left" timestamp="1649953685139">
+    <state width="1557" height="173" key="GridCell.Tab.1.center/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1649960275858" />
+    <state width="1557" height="173" key="GridCell.Tab.1.left" timestamp="1649960275858">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="173" key="GridCell.Tab.1.left/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1649953685139" />
-    <state width="1557" height="173" key="GridCell.Tab.1.right" timestamp="1649953685139">
+    <state width="1557" height="173" key="GridCell.Tab.1.left/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1649960275858" />
+    <state width="1557" height="173" key="GridCell.Tab.1.right" timestamp="1649960275858">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="173" key="GridCell.Tab.1.right/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1649953685139" />
-    <state width="1557" height="173" key="GridCell.Tab.2.bottom" timestamp="1649953685139">
+    <state width="1557" height="173" key="GridCell.Tab.1.right/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1649960275858" />
+    <state width="1557" height="173" key="GridCell.Tab.2.bottom" timestamp="1649960275858">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="173" key="GridCell.Tab.2.bottom/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1649953685139" />
-    <state width="1557" height="173" key="GridCell.Tab.2.center" timestamp="1649953685139">
+    <state width="1557" height="173" key="GridCell.Tab.2.bottom/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1649960275858" />
+    <state width="1557" height="173" key="GridCell.Tab.2.center" timestamp="1649960275858">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="173" key="GridCell.Tab.2.center/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1649953685139" />
-    <state width="1557" height="173" key="GridCell.Tab.2.left" timestamp="1649953685139">
+    <state width="1557" height="173" key="GridCell.Tab.2.center/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1649960275858" />
+    <state width="1557" height="173" key="GridCell.Tab.2.left" timestamp="1649960275858">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="173" key="GridCell.Tab.2.left/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1649953685139" />
-    <state width="1557" height="173" key="GridCell.Tab.2.right" timestamp="1649953685139">
+    <state width="1557" height="173" key="GridCell.Tab.2.left/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1649960275858" />
+    <state width="1557" height="173" key="GridCell.Tab.2.right" timestamp="1649960275858">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="173" key="GridCell.Tab.2.right/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1649953685139" />
-    <state width="1557" height="173" key="GridCell.Tab.3.bottom" timestamp="1649953685140">
+    <state width="1557" height="173" key="GridCell.Tab.2.right/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1649960275858" />
+    <state width="1557" height="173" key="GridCell.Tab.3.bottom" timestamp="1649960275859">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="173" key="GridCell.Tab.3.bottom/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1649953685140" />
-    <state width="1557" height="173" key="GridCell.Tab.3.center" timestamp="1649953685140">
+    <state width="1557" height="173" key="GridCell.Tab.3.bottom/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1649960275859" />
+    <state width="1557" height="173" key="GridCell.Tab.3.center" timestamp="1649960275858">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="173" key="GridCell.Tab.3.center/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1649953685140" />
-    <state width="1557" height="173" key="GridCell.Tab.3.left" timestamp="1649953685140">
+    <state width="1557" height="173" key="GridCell.Tab.3.center/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1649960275858" />
+    <state width="1557" height="173" key="GridCell.Tab.3.left" timestamp="1649960275858">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="173" key="GridCell.Tab.3.left/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1649953685140" />
-    <state width="1557" height="173" key="GridCell.Tab.3.right" timestamp="1649953685140">
+    <state width="1557" height="173" key="GridCell.Tab.3.left/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1649960275858" />
+    <state width="1557" height="173" key="GridCell.Tab.3.right" timestamp="1649960275858">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="173" key="GridCell.Tab.3.right/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1649953685140" />
+    <state width="1557" height="173" key="GridCell.Tab.3.right/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1649960275858" />
   </component>
 </project>

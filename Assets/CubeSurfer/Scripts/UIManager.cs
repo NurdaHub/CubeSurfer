@@ -12,6 +12,7 @@ public class UIManager : MonoBehaviour
     [SerializeField] private TextMeshProUGUI _levelText;
     [SerializeField] private GameObject _restartPanel;
     [SerializeField] private GameObject _finishPanel;
+    [SerializeField] private GameObject _eventDetector;
     [SerializeField] private Transform _coinTransform;
 
     private int _coins;
@@ -20,6 +21,7 @@ public class UIManager : MonoBehaviour
 
     public void OnFinish()
     {
+        SetEventDetectorState(false);
         _finishPanel.SetActive(true);
     }
     
@@ -38,6 +40,7 @@ public class UIManager : MonoBehaviour
 
     public void OnLose()
     {
+        SetEventDetectorState(false);
         _restartPanel.SetActive(true);
     }
 
@@ -55,6 +58,11 @@ public class UIManager : MonoBehaviour
     public void SetLevel(string value)
     {
         _levelText.text = value;
+    }
+
+    public void SetEventDetectorState(bool value)
+    {
+        _eventDetector.SetActive(value);
     }
 
     private IEnumerator CalculateCoins()
